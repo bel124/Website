@@ -10,12 +10,13 @@
     font-size: 0.5rem;
 }
 
-div.school-options-dropdown {
+div.web-dropdown {
     text-align: center;
 }
 
 .dropdown {
     text-align:center;
+    background-color:#ff99ff
 }
 
 .dropdown-menu {
