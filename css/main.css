@@ -22,3 +22,8 @@ div.web-dropdown {
 .dropdown-menu {
     text-align: center;
 }
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
