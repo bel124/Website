@@ -9,3 +9,15 @@
     padding: 10px;
     font-size: 0.5rem;
 }
+
+div.school-options-dropdown {
+    text-align: center;
+}
+
+.dropdown {
+    text-align:center;
+}
+
+.dropdown-menu {
+    text-align: center;
+}
