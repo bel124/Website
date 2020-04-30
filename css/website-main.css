@@ -13,6 +13,8 @@
     }
 }
 
+
+
 /* Style the navigation menu */
 .navbar {
     width: 100%;
@@ -50,6 +52,15 @@
         text-align: left; /* If you want the text to be left-aligned on small screens */
     }
 }
+
+
+
+img {
+    float: left;
+}
+
+
+
 
 /* Responsive navigation menu - display links on top of each other instead of next to each other (for mobile devices) */
 @media screen and (max-width: 600px) {
