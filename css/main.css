@@ -33,3 +33,34 @@ div.web-dropdown {
     width: 100%;
     height: 100%;
 }
+
+
+/* tablet landscape and desktop layout (960px or more) */
+
+/* tablet portrait layout (768px to 959px) */
+@media only screen and (max-width: 959px) {
+
+}
+/* mobile landscape layout (480px to 767px) */
+@media only screen and (max-width: 767px) {
+
+}
+/* mobile portrait layout (479px or less) */
+@media only screen and (max-width: 479px) {
+
+}
+
+    /* mobile portrait layout (479px or less) */
+
+/* mobile landscape layout (480px to 767px) */
+@media only screen and (min-width: 480px) {
+
+}
+/* tablet portrait layout (768px to 959px) */
+@media only screen and (min-width: 768px) {
+
+}
+/* tablet landscape and desktop layout (960px or more) */
+@media only screen and (min-width: 960px) {
+
+}
